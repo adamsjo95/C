@@ -21,4 +21,4 @@ int main()
     printf("%d minutes is approximately %f years and %f days\n", minutesEntered, years, days);
 
     return 0;
-}
+}                                                              
